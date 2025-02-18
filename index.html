@@ -35,17 +35,14 @@ olive oil, yoghurt, avocado, cheese, peanut butters<br>
 3 eggs scrambled with cheese and onions. 1 bagel, dry.<br>
 Eat a good breakfast. </p>
 
-<h2>HTML Image</h2>
+<h2>Breakfast</h2>
 <img src="<img src="https://th.bing.com/th/id/OIP.SJdwT28hAGm5M1_hKBWZTwHaFH?w=274&h=190&c=7&r=0&o=5&dpr=1.4&pid=1.7"alt="Breakfast" width="441" height="248">
 
-<h3>HTML Image</h3>
-<img src="pic_C:\Users\rybar\Downloads\breakfast 2.jpg" alt="Breakfast" width="408" height="271">
+<img src="https://th.bing.com/th/id/OIP.5YcFKM0gXJ5529wIeX6cEQHaHa?pid=ImgDet&w=199&h=199&c=7&dpr=1.4" alt="Breakfast" width="408" height="271">
 
-<h4>HTML Image</h4>
-<img src="pic_C:\Users\rybar\Downloads\breakfast 3.jpg" alt="Breakfast" width="413" height="274">
-
-<h5>HTML Image</h5>
-<img src="pic_C:\Users\rybar\Downloads\breakfast 4.jpg" alt="Breakfast" width="268" height="177">
+<img src="https://th.bing.com/th/id/OIP.Zc3_CAV8XBtBkmuctcyOxQHaE8?w=279&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="413" height="274">
+    
+<img src="https://th.bing.com/th/id/OIP.xfRbHeumydo-ZmAAjUG7CgHaE8?w=245&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="268" height="177">
   
 </body>
 </html>
