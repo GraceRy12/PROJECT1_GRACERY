@@ -36,11 +36,11 @@ olive oil, yoghurt, avocado, cheese, peanut butters<br>
 Eat a good breakfast. </p>
 
 <h2>Breakfast</h2>
-<img src="<img src="https://th.bing.com/th/id/OIP.SJdwT28hAGm5M1_hKBWZTwHaFH?w=274&h=190&c=7&r=0&o=5&dpr=1.4&pid=1.7"alt="Breakfast" width="441" height="248">
+<img src="<img src="https://th.bing.com/th/id/OIP.SJdwT28hAGm5M1_hKBWZTwHaFH?w=274&h=190&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="268" height="177">
 
-<img src="https://th.bing.com/th/id/OIP.5YcFKM0gXJ5529wIeX6cEQHaHa?pid=ImgDet&w=199&h=199&c=7&dpr=1.4" alt="Breakfast" width="408" height="271">
+<img src="https://th.bing.com/th/id/OIP.5YcFKM0gXJ5529wIeX6cEQHaHa?pid=ImgDet&w=199&h=199&c=7&dpr=1.4" alt="Breakfast" width="268" height="177">
 
-<img src="https://th.bing.com/th/id/OIP.Zc3_CAV8XBtBkmuctcyOxQHaE8?w=279&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="413" height="274">
+<img src="https://th.bing.com/th/id/OIP.Zc3_CAV8XBtBkmuctcyOxQHaE8?w=279&h=186&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="268" height="177">
     
 <img src="https://th.bing.com/th/id/OIP.xfRbHeumydo-ZmAAjUG7CgHaE8?w=245&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Breakfast" width="268" height="177">
   
