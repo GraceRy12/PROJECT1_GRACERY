@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Eat a good breakfast</title>
-</head>
 
   <body>
 <h1>Eat a good breakfast</h1>
