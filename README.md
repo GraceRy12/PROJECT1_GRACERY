@@ -1,26 +1,11 @@
-# PROJECT1_GRACERY
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  background-color: orange;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
+<title>Eat a good breakfast</title>
 </head>
-<body>
 
-<h1>Eat a Good Breakfast</h1>
+  <body>
+<h1>Eat a good breakfast</h1>
 <p>How to eat<br>
 What is the best<br>
 What is the meaning<br>
@@ -48,10 +33,10 @@ What makes a good …<br>
 General rule of thumb<br>
 olive oil, yoghurt, avocado, cheese, peanut butters<br>
 3 eggs scrambled with cheese and onions. 1 bagel, dry.<br>
-Eat a good breakfast.</p>
+Eat a good breakfast. </p>
 
 <h2>HTML Image</h2>
-<img src="pic_C:\Users\rybar\Downloads\Breakfast 1.jpg" alt="Breakfast" width="441" height="248">
+<img src="<img src="https://th.bing.com/th/id/OIP.SJdwT28hAGm5M1_hKBWZTwHaFH?w=274&h=190&c=7&r=0&o=5&dpr=1.4&pid=1.7"alt="Breakfast" width="441" height="248">
 
 <h3>HTML Image</h3>
 <img src="pic_C:\Users\rybar\Downloads\breakfast 2.jpg" alt="Breakfast" width="408" height="271">
@@ -61,6 +46,6 @@ Eat a good breakfast.</p>
 
 <h5>HTML Image</h5>
 <img src="pic_C:\Users\rybar\Downloads\breakfast 4.jpg" alt="Breakfast" width="268" height="177">
-
+  
 </body>
 </html>
